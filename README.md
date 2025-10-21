@@ -1,5 +1,5 @@
 # Bluetooth Controlled Car
-
+<img width="1170" height="651" alt="image" src="https://github.com/user-attachments/assets/b6982b43-99d4-43b2-9dc9-956e611c89c4" />
 A remote-controlled car project using Arduino Uno, L298N motor driver, and HC-05 Bluetooth module. The car can be controlled wirelessly in real-time via a mobile app with Bluetooth connectivity.
 
 ## 📋 Project Overview
